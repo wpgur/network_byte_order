@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h> // exit()
+#include <stdlib.h>
 #include <stdint.h>
 
 FILE *in;
